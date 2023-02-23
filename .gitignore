@@ -1,0 +1,23 @@
+packages
+*.datasource
+*.wsdl
+obj
+bin
+Web References
+.vs
+Debug
+ipch
+Release
+x64
+*.sdf
+*.sln
+*.suo
+*.filters
+*.user
+*.vcxproj
+JsonTestDocking
+CSciEmployeeToMOM
+CCD-MOM_ToDLL
+wcfTest
+gsoap 调取 webservice.pptx
+*.drawio
